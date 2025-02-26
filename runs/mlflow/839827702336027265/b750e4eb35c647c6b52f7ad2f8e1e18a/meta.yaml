@@ -1,0 +1,15 @@
+artifact_uri: /Users/user/code/marko800/fruit-detector/runs/mlflow/839827702336027265/b750e4eb35c647c6b52f7ad2f8e1e18a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '839827702336027265'
+lifecycle_stage: active
+run_id: b750e4eb35c647c6b52f7ad2f8e1e18a
+run_name: train3
+run_uuid: b750e4eb35c647c6b52f7ad2f8e1e18a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727686756297
+status: 1
+tags: []
+user_id: user
